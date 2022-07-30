@@ -3,7 +3,6 @@
 - 🖥️  See my portfolio at [shanpriyan.in](http://shanpriyan.in/)
 - ✉️  You can contact me at [priyanshan03@gmail.com](mailto:priyanshan03@gmail.com)
 
-<br/>
 
 ## Skills
 <p align="left">
@@ -15,7 +14,6 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="56" height="56" alt="Webpack" /></a>
 </p>
 
-<br/>
 
 ## Socials
 
